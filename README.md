@@ -12,3 +12,5 @@ Spring 实战（第五版）示例代码
   + 从 jUnit4 迁移到了 jUnit5
   + `HomePageBrowserTest` 没写
 - P-02 第02章 开发Web应用
+  + 实在不想搞 Thymeleaf 所以没写完，跳过 →
+- P-03 第03章 使用数据
